@@ -1,5 +1,6 @@
 {
   "name": "hardhat-project",
+  "license": "MIT",
   "scripts": {
      "compile": "npx hardhat compile",
      "deploy": "npx hardhat run scripts/deploy.ts",
